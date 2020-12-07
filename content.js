@@ -1,0 +1,1 @@
+console.log("Extensão rodando pela primeira vez!");
