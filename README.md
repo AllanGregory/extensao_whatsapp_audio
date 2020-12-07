@@ -1,4 +1,4 @@
-# SepakQuickly
+# SpeakQuickly
 Extensão para navegador com finalidade de aumentar a velocidade de áudios no WhatsApp.
 
 Feita em Javascript puro, com objetivo de estudar a criação de extensão para navegador, conceitos de javascript.
